@@ -2,10 +2,6 @@
 
 A modern, responsive, secure, and full-featured web application built for college event discovery, attendee registration, pass generation, and administrative lifecycle management.
 
-![CampusPulse Hero](assets/images/techfest.svg)
-
----
-
 ## 🌐 Live Deployment & Online Access
 
 - 🚀 **Live Demo URL:** [https://directed-request-acceptable-possible.trycloudflare.com](https://directed-request-acceptable-possible.trycloudflare.com)
