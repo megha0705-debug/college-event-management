@@ -1,0 +1,14 @@
+# Apache Security & Configuration for CampusPulse
+Options -Indexes
+
+# Protect sensitive database files from direct browser download
+<FilesMatch "\.(sql|sqlite|sqlite3|env|git|log)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Enable Gzip compression
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+
