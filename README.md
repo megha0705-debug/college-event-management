@@ -9,8 +9,6 @@ A modern, responsive, secure, and full-featured web application built for colleg
 ## 🌐 Live Deployment & Online Access
 
 - 🚀 **Live Demo URL:** [https://directed-request-acceptable-possible.trycloudflare.com](https://directed-request-acceptable-possible.trycloudflare.com)
-- 🐙 **GitHub Repository:** [https://github.com/gmegha0711/college-event-management](https://github.com/gmegha0711/college-event-management)
-- ☁️ **Permanent Cloud URL:** [https://campuspulse-events.onrender.com](https://campuspulse-events.onrender.com) *(Render.com)*
 
 ## 📋 Table of Contents
 1. [Project Overview](#project-overview)
