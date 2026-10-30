@@ -12,15 +12,6 @@ A modern, responsive, secure, and full-featured web application built for colleg
 - 🐙 **GitHub Repository:** [https://github.com/gmegha0711/college-event-management](https://github.com/gmegha0711/college-event-management)
 - ☁️ **Permanent Cloud URL:** [https://campuspulse-events.onrender.com](https://campuspulse-events.onrender.com) *(Render.com)*
 
-### 🔑 Quick Demo Credentials (Pre-loaded):
-| Role | Email Address | Password | Privileges |
-| :--- | :--- | :--- | :--- |
-| **Student (Meghana)** | `meghana@student.college.edu` | `Student@123` | Event registration, digital ticket passes, cancellations |
-| **Administrator** | `admin@college.edu` | `Admin@123` | Full CRUD, capacity & deadline controls, CSV export |
-| **Student (Priya)** | `priya.patel@student.college.edu` | `Student@123` | Student portal & event discovery |
-
----
-
 ## 📋 Table of Contents
 1. [Project Overview](#project-overview)
 2. [Key Features](#key-features)
